@@ -1,4 +1,3 @@
-# demo_skill_mine
 
 A new Flutter application.
 
